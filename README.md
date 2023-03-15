@@ -14,6 +14,16 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 Explore and analyze the data to discover important factors that govern the bookings.
 
+# Business objective 
+
+1. For hotel business to flourish few things which we need to consider is high revenue generation, customers satisfaction and employeee retention.
+2. We are able achieve the same by showing the client which are the months which are high in revenue generation by pie chart distribution.
+3. Increasing the revenue achieved by bar chart distribution of which typre room are most reserved and what are the months likely for visitors.
+4. So for these the client can be well prepare in advance so that minimum grievances would be faced by clients in long run and would help in further enhancement of their hospitality.
+5. Outliers like higher the visitor then adr has reduced drastically was shown in scattered plot so in off season client can engage with offices for bulk booking this will aslo help extra revenue generation.
+6. We are able to show the trend of arrivals of visitor at client locations through which client engaged visitos well advance for there entaertainment and leisure activities.
+7. We where also able to co relate the values showing the max and min percentage between them so that the percenytage lying those numbers can be enhanced by various medium.
+
 # Conclusion
 
 1.	City hotels are the most preferred hotel type by the guests. We can say City hotel is the busiest hotel.
